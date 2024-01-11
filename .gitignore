@@ -1,0 +1,11 @@
+public
+node_modules
+*.lock
+.DS_Store
+node_modules
+dist
+tmp
+resources/_gen
+hugo.exe
+hugo.linux
+hugo.darwin
