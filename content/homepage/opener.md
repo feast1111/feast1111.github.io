@@ -1,14 +1,18 @@
 ---
-title: "Welcome"
+title: "Feast Nutrition"
 weight: 1
 ---
+### Practical assistance with:
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+- Weight loss
+- Chronic hunger 
+- High blood pressure 
+- Poor digestion 
+- Low energy
+- My goal is to help you enjoy your food again and train your body to love healthy options. 
+- Understand the basics of healthy eating. Focus on consuming healthy fats, proteins, vegetables, little starch, some fruit later, and no sugar. By following this approach, you will achieve incredible health and fitness results. 
+- Take control of your weight, health and well-being with Feast Nutrition and let me help you discover the real you, full of energy and life. 
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
-
-> The belly rules the mind. --- spanish proverb
-
-By the way this welcome section won't show in the cover menu.
+Make a consultation today: Online or in person:
+- saranie@feastnutrition.co.za
+- +27 82 771 5466

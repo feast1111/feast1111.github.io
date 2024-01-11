@@ -6,10 +6,9 @@ header_menu: true
 
 ![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professional Experience
-
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+With my lifelong passion for health and wellness, my main goal is to assist people who have become disillusioned with traditional dietary guidelines and have lost hope in achieving weight loss and overall well-being. Through my personal journey with weight and health challenges, I discovered that refined carbs and sugar are major culprits. With a basic knowledge of macro-nutrients and micro-nutrients and what their role is, you can easily adapt your current eating habits to achieve your weight loss and/or improved health goals.
 
 ----
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Beyond my professional background as an attorney and sworn translator (French / English), my true passion lies in helping individuals make similar discoveries as those that changed my life.
+We are a family who loves to go rock-climbing, mountain biking and hiking.
