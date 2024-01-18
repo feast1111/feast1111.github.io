@@ -1,18 +1,23 @@
 ---
-title: "Approach"
-weight: 98
-header_menu_title: "Approach"
-navigation_menu_title: "Approach"
+title: " "
+header_menu_title: "APPROACH"
+navigation_menu_title: "My approach"
+weight: 2
 header_menu: true
-detailed_page_path: /approach/
-detailed_page_homepage_content: true
 ---
-I am dedicated to guiding clients through the overwhelming maze of information and helping them find practical solutions that work for them. My approach involves providing motivation, uncovering the reasons behind emotional eating, and supporting the adoption of a new and sustainable lifestyle, one step at a time.
 
-A personalized eating plan and/or a list of good foods and a list of bad foods. Adapted to your lifestyle. With weekly support and motivation. 
+![](../images/Edit_iStock-1443423026.jpg)
 
-When someone is very overweight, strenuous exercise will only increase stress hormones and lead to fat storage. Instead, opt for a refreshing walk around the block, which will be more beneficial. As you regain a healthy weight, you will start liking exercise and movement again.
+I am dedicated to guiding clients through the **overwhelming maze of information** and helping them **find practical solutions that work for them**. My approach involves providing motivation
+and supporting the adoption of a new and sustainable lifestyle, one step at a time.
+<br>
 
-The focus is to choose food in its natural state. Your body knows what to do with natural foods. Eat less of the foods that have ingredient lists. 
+**A personalized eating plan** and a **list of good foods** and a list of bad foods - adapted to your preferences. With **weekly support and motivation**.
+<br>
 
-![Food Pyramid](images/pyramid.jpeg)
+I **collaborate** with and refer to **specialist doctors** and other **health care workers** in cases of hormone imbalances and other more serious conditions.
+
+
+<!-- ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+
+Want to learn more about my services? See [dedicated page](services) with more details. -->
