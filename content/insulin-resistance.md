@@ -1,0 +1,20 @@
+---
+title: "Insulin resistance – how to know if you have it¹"
+---
+Insulin resistance is a main cause of obesity. But it can be prevented and even reversed.
+Even if your doctor has never brought up the subject of insulin resistance, you may still have it.
+If you answer yes to one of these questions, you most likely have insulin resistance.
+If you answer yes to two or more of these questions, the chances are even higher that you have insulin resistance.
+•	Do you have more fat around your belly than you’d like?
+•	Do you have high blood pressure?
+•	Do you have a family history of heart disease?
+•	Do you have high levels of blood triglycerides?
+•	Do you retain water easily?
+•	Do you have patches of dark-coloured skin or little bumps of skin (skin tags) at your neck, armpits, or other areas?
+•	Do you have a family member with insulin resistance or type 2 diabetes?
+•	Do you have PCOS (polycystic ovarian syndrome; for women) or erectile dysfunction (for men)?
+Find a doctor that understands insulin resistance.
+
+
+
+1. “Why we get sick”, by dr. Benjamin Bickman, PhD
