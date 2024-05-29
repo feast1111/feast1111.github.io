@@ -42,7 +42,7 @@ title = "Feast Nutrition"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© Saranie Harvey"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -61,3 +61,7 @@ title = "Feast Nutrition"
     [params.contact]
         email = "saranie@feastnutrition.co.za"
         phone = "+27 82 771 5466"
+
+[markup.goldmark.renderer]
+    unsafe = true
+    
