@@ -10,7 +10,7 @@ With my lifelong passion for health and wellness, my main goal is to assist peop
 
 ----
 
-Beyond my professional background as an attorney and French sworn translator, my true passion lies in helping individuals make similar discoveries as those that changed my life.<br>
+Beyond my professional background as an attorney and French sworn translator, my true passion lies in helping individuals.<br>
 I have a certificate from Silwood Kitchen Cordon Bleu school in Cape Town [Silwood.co.za](https://silwood.co.za) and I have a Nutrition Advisor qualification from the Nutrition Network [nutrition-network.org](https://nutrition-network.org).
 
 We are a family who loves to go rock-climbing, mountain biking and hiking.
